@@ -1,0 +1,32 @@
+{
+  "budgetID": "007",
+  "budgetName": "Mock Budget",
+  "budgetCategories": [
+    {
+      "category": "Regular Salary",
+      "amount": 8000.00,
+      "type": "monthlyIncome"
+    },
+    {
+      "category": "Groceries",
+      "amount": 2500.00,
+      "type": "monthlyExpense"
+    },
+    {
+      "category": "Entertainment",
+      "amount": 3000.00,
+      "type": "monthlyExpense"
+    },
+    {
+      "category": "Auto",
+      "amount": 5000.00,
+      "type": "monthlyExpense"
+    },
+    {
+      "category": "Utilities",
+      "amount": 1000.00,
+      "type": "monthlyExpense"
+    }
+  ],
+  "budgetStartDay": 1
+}
