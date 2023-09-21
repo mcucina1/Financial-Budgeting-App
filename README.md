@@ -1,6 +1,6 @@
 # Money-Mate
 
-This application allows the user to budget their personal finances. By uploading their transiction data, they can budget their income and visually see where their finances are being used. This project using React w/Typescript, Python, and MongoDB.
+This application allows the user to budget their personal finances. By uploading their transiction data, they can budget their income and visually see where their finances are being used. This project uses React w/Typescript, Python, and MongoDB.
 
 ## Run Scripts 
 
